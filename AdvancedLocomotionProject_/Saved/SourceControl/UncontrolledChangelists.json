@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/BLund/Downloads/AdvancedTraversalSystem_v1.3.0/AdvancedTraversalSystem_v1.3.0/Content/AdvancedLocomotionV4/Levels/ATS_DemoLevel_BuiltData.uasset",
+				"C:/Users/BLund/Downloads/AdvancedTraversalSystem_v1.3.0/AdvancedTraversalSystem_v1.3.0/Content/AdvancedLocomotionV4/Levels/ATS_DemoLevel.umap",
+				"C:/Users/BLund/Downloads/AdvancedTraversalSystem_v1.3.0/AdvancedTraversalSystem_v1.3.0/Content/AdvancedLocomotionV4/Blueprints/GameModes/ALS_GameMode_SP.uasset",
+				"D:/ThinkitBuildit/AdvancedLocomotionProject_/Content/ConceptArt/_e84dc4ca-df44-446b-822c-1d0121b092ff.uasset",
+				"D:/ThinkitBuildit/AdvancedLocomotionProject_/Content/Splash/EdSplash.uasset",
+				"D:/ThinkitBuildit/AdvancedLocomotionProject_/Content/AdvancedLocomotionV4/Levels/ATS_DemoLevel.umap",
+				"D:/ThinkitBuildit/AdvancedLocomotionProject_/Content/Splash/_e84dc4ca-df44-446b-822c-1d0121b092ff.uasset",
+				"C:/Users/BLund/Downloads/AdvancedTraversalSystem_v1.3.0/AdvancedTraversalSystem_v1.3.0/Content/Splash/ATS_Splash.uasset"
+			]
+		}
+	]
+}
